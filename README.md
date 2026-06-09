@@ -6,19 +6,21 @@ Transmission and reception of AX.25 telemetry protocol using GNURadio, USRP and 
 <p align="center">
   <img src="images/Direwolf.png" width="90"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="images/Ettus_LOGO-Brand-800x300.png" width="150"/>
+    <img src="images/Python_logo_and_wordmark.svg.png" width="280"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="images/Gnuradio_logo.svg.png" width="150"/>
+   <img src="images/Ettus.jpeg" width="200"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
- 
-</p>
+   <img src="images/Gnuradio_logo.svg.png" width="300"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+<p align="center">
 
-![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-blue)
-![AnythingLLM](https://img.shields.io/badge/AnythingLLM-UI-green)
-![OpenWebUI](https://img.shields.io/badge/OpenWebUI-UI-orange)
-![Docker](https://img.shields.io/badge/Docker-Container-2496ED?logo=docker&logoColor=white)
-![Llama3](https://img.shields.io/badge/Llama3-Model-purple)
-![Dolphin](https://img.shields.io/badge/Dolphin--Mistral-Model-ff69b4)
-![DeepSeek-Coder](https://img.shields.io/badge/DeepSeek--Coder-Model-red)
+![GNU Radio](https://img.shields.io/badge/GNU%20Radio-3.10-orange)
+![USRP](https://img.shields.io/badge/USRP-B210-blue)
+![Direwolf](https://img.shields.io/badge/Direwolf-AX.25-green)
+![Python](https://img.shields.io/badge/Python-3.10-yellow)
+![AX.25](https://img.shields.io/badge/Protocol-AX.25-red)
+![AFSK](https://img.shields.io/badge/Modulation-AFSK1200-purple)
 
 ---
+
