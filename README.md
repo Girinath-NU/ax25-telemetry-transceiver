@@ -3,7 +3,7 @@ Transmission and reception of AX.25 telemetry protocol using GNURadio, USRP and 
 
 ---
 
-<p align="center">
+<p/>
   <img src="images/Direwolf.png" width="90"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="images/Python_logo_and_wordmark.svg.png" width="250"/>
